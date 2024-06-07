@@ -85,7 +85,7 @@ If you live outside the United States and want to work here, you generally must 
 |-
 | [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1 EB-1]
 || This preference is reserved for persons of extraordinary ability in the sciences, arts, education, business, or athletics; outstanding professors or researchers; and multinational executives and managers.
-||	No
+|| No
 |-
 | [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2 EB-2]
 || This preference is reserved for persons who are members of the professions holding advanced degrees or for persons with exceptional ability in the arts, sciences, or business.
@@ -101,14 +101,96 @@ If you live outside the United States and want to work here, you generally must 
 |-
 || [https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program EB-5]
 ||This preference is reserved for business investors who invest $1.8 million or $900,000 (if the investment is made in a targeted employment area) in a new commercial enterprise that employs at least 10 full-time U.S. workers.
-||No
+|| No
 |}
 
 == STEM Employment Pathways ==
 
 [https://www.uscis.gov/working-in-the-united-states/options-for-noncitizen-stem-professionals-to-work-in-the-united-states Homepage]
 
-[https://www.uscis.gov/sites/default/files/document/web-content/STEM%20Visa%20Guide%20-%20Landing%20Page%20New%20Doc_CHI.pdf Options for Noncitizen STEM Professionals to Work in the United States (Chinese Version PDF)]
+=== Immigrant (Permanent) Pathways ===
+
+{|
+! Pathway (i.e., employment-based immigrant visa classification) !! Required education, experience, or skills !! Job offer and/or labor certification required?
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1 EB-1A]
+<br>
+Employment-Based First Preference – Extraordinary ability
+||
+Sustained national or international acclaim in a specific field.
+||
+No job offer or labor certification required, but individuals must show how they will work in their area of extraordinary ability in the United States.
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1 EB-1B]
+<br>
+Employment-Based First Preference – Outstanding professors and researchers
+||
+International recognition as outstanding in a specific academic area.	
+||
+Job offer required.
+<br>
+No labor certification required.
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1 EB-1C]
+<br>
+Employment-Based First Preference – Multinational executives and managers
+||
+One year of employment abroad with a parent, branch, affiliate, or subsidiary of the U.S. petitioning company in a primarily managerial or executive capacity.	
+||
+Job offer must be for employment in a primarily managerial or executive capacity with a qualifying U.S. employer that has been doing business for at least one year.
+<br>
+No labor certification required.
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2 EB-2] (without national interest waiver)
+<br>
+Employment-Based Second Preference – Exceptional ability or advanced degree professional
+||
+Exceptional ability: a level of expertise significantly above that ordinarily encountered.
+<br>
+Advanced degree professional: the job requires, and you possess, a degree above a bachelor’s (or a bachelor’s followed by at least five years of progressive experience).
+||
+Job offer required.
+<br>
+Labor certification generally required.
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2 EB-2 with National Interest Waiver (NIW)]
+<br>
+Employment-Based Second Preference – Exceptional ability or advanced degree professional with national interest waiver of job offer and, thus, the labor certification
+||
+Exceptional ability or advanced degree as described above plus:
+<br>
+The proposed endeavor has both substantial merit and national importance.
+<br>
+You are well positioned to advance the proposed endeavor.
+<br>
+On balance, it would be beneficial to the United States to waive the requirements of a job offer, and thus the labor certification.
+||
+No job offer required.
+<br>
+No labor certification required.
+|-
+|
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3 EB-3]
+<br>
+Employment-Based Third Preference – Skilled workers, professionals, or other workers
+||
+Skilled worker: the job requires, and you possess, a minimum of 2 years’ training or experience.
+<br>
+Professional: the job requires, and you possess, at least a U.S. bachelor’s degree (or a foreign equivalent degree).
+<br>
+Other worker: you are capable of performing a job requiring less than 2 years’ training or experience.
+||
+Job offer required.
+<br>
+Labor certification generally required.
+|}
+
+[https://www.uscis.gov/sites/default/files/document/web-content/STEM%20Visa%20Guide%20-%20Landing%20Page%20New%20Doc_CHI.pdf Options for Noncitizen STEM Professionals to Work in the United States (PDF Chinese Version)]
 
 = Norway =
 
