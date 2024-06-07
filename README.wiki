@@ -26,11 +26,43 @@
 [https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html Page]
 
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work/look-jobs.html Look for jobs in Canada]
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html Find your National Occupation Classification (NOC)]
 
-=== NOC ===
+=== National Occupation Classification (NOC) ===
 
 [https://noc.esdc.gc.ca/Home/Welcome/4d655901c5a8499d8af705bb2a3aee03?GoCTemplateCulture=en-CA NOC Website]
+
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html Find your National Occupation Classification (NOC)]
+
+{|
+! TEER category !!	Nature of education, training and experience required and complexity of responsibilities
+|- 
+| 0	||
+* Management responsibilities
+|- 
+| 1 ||	
+* Completion of a university degree (bachelor's, master's, or doctorate); or
+* Previous experience and expertise in subject matter knowledge from a related occupation found in TEER category 2 (when applicable).
+|- 
+| 2	||
+* Completion of a post-secondary education program of two to three years at community college, institute of technology, or CÉGEP; or
+* Completion of an apprenticeship training program of two to five years; or
+* Occupations with supervisory or significant safety (e.g. police officers and firefighters) responsibilities; or
+* Several years of experience in a related occupation from TEER category 3 (when applicable).
+|- 
+| 3 ||
+* Completion of a post-secondary education program of less than two years at community college, institute of technology or CÉGEP; or
+* Completion of an apprenticeship training program of less than two years; or
+* More than six months of on-the-job training, training courses or specific work experience with some secondary school education; or
+* Several years of experience in a related occupation from TEER category 4 (when applicable).
+|- 
+| 4	||
+* Completion of secondary school; or
+* Several weeks of on-the-job training with some secondary school education; or
+* Experience in a related occupation from TEER category 5 (when applicable).
+|- 
+| 5	||
+* Short work demonstration and no formal educational requirements
+|}
 
 === Social Insurance Number (SIN) ===
 
