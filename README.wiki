@@ -74,7 +74,7 @@
 
 [https://www.uscis.gov/ Ofiicial Website]
 
-== Permanent Workers webpage ==
+== Permanent Workers ==
 
 [https://www.uscis.gov/working-in-the-united-states/permanent-workers Homepage]
 
@@ -103,6 +103,12 @@ If you live outside the United States and want to work here, you generally must 
 ||This preference is reserved for business investors who invest $1.8 million or $900,000 (if the investment is made in a targeted employment area) in a new commercial enterprise that employs at least 10 full-time U.S. workers.
 ||No
 |}
+
+== STEM Employment Pathways ==
+
+[https://www.uscis.gov/working-in-the-united-states/options-for-noncitizen-stem-professionals-to-work-in-the-united-states Homepage]
+
+[https://www.uscis.gov/sites/default/files/document/web-content/STEM%20Visa%20Guide%20-%20Landing%20Page%20New%20Doc_CHI.pdf Options for Noncitizen STEM Professionals to Work in the United States (Chinese Version PDF)]
 
 = Norway =
 
