@@ -8,28 +8,21 @@
 
 == Express Entry (skilled workers) ==
 
-[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html Page]
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html Homepage]
 
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html Canadian Experience Class]
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html Federal Skilled Worker Program]
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html Federal Skilled Trades Program]
 
-== Family sponsorship ==
+=== Work in Canada ===
 
-[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html Page]
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html Homepage]
 
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html Sponsor your parents and grandparents]
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives.html Sponsor your relatives]
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work/look-jobs.html Look for jobs in Canada]
 
-== Work in Canada ==
+==== National Occupation Classification (NOC) ====
 
-[https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html Page]
-
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work/look-jobs.html Look for jobs in Canada]
-
-=== National Occupation Classification (NOC) ===
-
-[https://noc.esdc.gc.ca/Home/Welcome/4d655901c5a8499d8af705bb2a3aee03?GoCTemplateCulture=en-CA NOC Website]
+[https://noc.esdc.gc.ca/Home/Welcome/4d655901c5a8499d8af705bb2a3aee03?GoCTemplateCulture=en-CA NOC]
 
 [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html Find your National Occupation Classification (NOC)]
 
@@ -64,11 +57,18 @@
 * Short work demonstration and no formal educational requirements
 |}
 
-=== Social Insurance Number (SIN) ===
+==== Social Insurance Number (SIN) ====
 
 [https://www.canada.ca/en/employment-social-development/services/sin/apply.html SIN]
 
 [https://www.canada.ca/en/employment-social-development/services/sin/before-applying.html#Translation_requirements Translation requirements]
+
+== Family sponsorship ==
+
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship.html Homepage]
+
+* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html Sponsor your parents and grandparents]
+* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives.html Sponsor your relatives]
 
 = US =
 
