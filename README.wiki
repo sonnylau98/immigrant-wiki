@@ -74,9 +74,35 @@
 
 [https://www.uscis.gov/ Ofiicial Website]
 
-[https://www.uscis.gov/working-in-the-united-states/permanent-workers Permanent Workers webpage]
+== Permanent Workers webpage ==
+
+[https://www.uscis.gov/working-in-the-united-states/permanent-workers Homepage]
 
 If you live outside the United States and want to work here, you generally must apply for a '''visa''' from the U.S. Department of State (DOS), unless a visa is not required for people from your country of nationality. You may visit [https://travel.state.gov/content/travel/en/us-visas/tourism-visit/travel-without-a-visa.html DOS’ Travel Without a Visa page] for more information.
+
+{|
+! Preferences !! General Description !! Labor Certification Required?
+|-
+| [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1 EB-1]
+|| This preference is reserved for persons of extraordinary ability in the sciences, arts, education, business, or athletics; outstanding professors or researchers; and multinational executives and managers.
+||	No
+|-
+| [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2 EB-2]
+|| This preference is reserved for persons who are members of the professions holding advanced degrees or for persons with exceptional ability in the arts, sciences, or business.
+|| Yes, unless applicant can obtain a national interest waiver (Labor Certification)
+|-
+| [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3 EB-3]
+|| This preference is reserved for professionals, skilled workers, and other workers. (See [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3 Third Preference EB-3] page for further definition of these job classifications.)
+|| Yes
+|-
+| [https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fourth-preference-eb-4 EB-4]
+|| This preference is reserved for “special immigrants,” which includes certain religious workers, employees of U.S. foreign service posts, retired employees of international organizations, noncitizen minors who are wards of courts in the United States, and other classes of noncitizens.
+|| No
+|-
+|| [https://www.uscis.gov/working-in-the-united-states/permanent-workers/eb-5-immigrant-investor-program EB-5]
+||This preference is reserved for business investors who invest $1.8 million or $900,000 (if the investment is made in a targeted employment area) in a new commercial enterprise that employs at least 10 full-time U.S. workers.
+||No
+|}
 
 = Norway =
 
