@@ -70,7 +70,7 @@
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents.html Sponsor your parents and grandparents]
 * [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives.html Sponsor your relatives]
 
-= US =
+= United States =
 
 [https://www.uscis.gov/ Ofiicial Website]
 
@@ -196,6 +196,40 @@ Labor certification generally required.
 
 [https://www.udi.no/en/ Ofiicial Website]
 
+== Fee ==
+
+[https://www.udi.no/en/word-definitions/fees list of fees]
+
+== Work immigration ==
+
+[https://www.udi.no/en/want-to-apply/work-immigration/?c=chn Page (The applicant is a citizen of : China.)]
+
+=== Skilled workers ===
+
+[https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/?c=chn Page (The applicant is a citizen of : China.)]
+
+[https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/?c=chn#link-816 Skilled worker with an employer in Norway]
+
+= New Zealand =
+
+[https://www.immigration.govt.nz/ Ofiicial Website]
+
+== Visa ==
+
+[https://www.immigration.govt.nz/new-zealand-visas/visa-lists/all-resident-visas Visas that may allow you to live in NZ]
+
+[https://www.immigration.govt.nz/new-zealand-visas/visas/visa/permanent-resident-visa Permanent Resident Visa]
+
+= Sweden =
+
+[https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/china/going-to-sweden/ Ofiicial Website]
+
+== Residence Permit ==
+
+[https://www.swedenabroad.se/en/embassies/china-shanghai/visas-and-residence-permits/application-residence-permit/ Application residence permit]
+
+[https://www.migrationsverket.se/English/Private-individuals.html Swedish Migration Agency's website]
+
 = Taiwan =
 
 [https://www.immigration.gov.tw/5385/7244/7250/7257/ Ofiicial Website]
@@ -203,12 +237,10 @@ Labor certification generally required.
 ----
 
 <!--
-Sweden
 Denmark
 Ireland
 Germany
 France
-New Zealand
 United Kingdom
 Australia
 Netherlands
@@ -217,10 +249,8 @@ Luxembourg
 Belgium
 Iceland
 Portugal
-South Korea
 Japan
+South Korea
 Singapore
-Malaysia
-Thailand
 -->
 
