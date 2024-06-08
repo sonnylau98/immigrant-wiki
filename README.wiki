@@ -270,20 +270,33 @@ Labor certification generally required.
 
 [https://www.government.is/diplomatic-missions/embassy-of-iceland-in-ottawa/work-and-live-in-iceland/ Ofiicial Website]
 
+= Japan =
+
+[https://www.mofa.go.jp/j_info/visit/visa/index.html Ofiicial Website]
+
+= South Korea =
+
+[https://www.immigration.go.kr/immigration_eng/index.do Ofiicial Website]
+
 = Taiwan =
 
 [https://www.immigration.gov.tw/5385/7244/7250/7257/ Ofiicial Website]
 
-= EU =
+= Singapore =
 
-[https://commission.europa.eu/live-work-travel-eu_en]
+[https://www.ica.gov.sg/ Ofiicial Website]
+
+= Luxembourg =
+
+[https://mae.gouvernement.lu/en/services-aux-citoyens/visa-immigration.html Ofiicial Website]
+
+= Belgium =
+
+[https://dofi.ibz.be/en Ofiicial Website]
 
 ----
 
-<!--
-Luxembourg
-Belgium
-Japan
-South Korea
-Singapore
--->
+= EU =
+
+[https://commission.europa.eu/live-work-travel-eu_en Live, Work and Travel]
+
