@@ -26,8 +26,9 @@
 ** résumé writing workshops
 ** job search training sessions
 ** other services to help you find work
+<s>[https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/pre-arrival-services.html pre-arrival services]  </s>
+('''They must approved your permanent residence application''')
 
-If you haven’t arrived in Canada yet, you may be able to get [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/pre-arrival-services.html pre-arrival services] in your home country before you leave.
 
 *[https://www.jobbank.gc.ca/findajob/newcomers Job Bank], which offers free [https://www.jobbank.gc.ca/analyse-tendances/recherche-professions;jsessionid=E3E454D3C08933A20B65954E08B5B0F0.jobsearch74 occupational and career information] about working in Canada, such as:
 ** jobs
@@ -39,7 +40,6 @@ If you haven’t arrived in Canada yet, you may be able to get [https://www.cana
 * Service Canada, which has important information about [https://www.canada.ca/en/services/jobs/opportunities.html searching and applying for jobs]
 
 * your [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/provinces-territories.html province’s or territory’s website for newcomers]
-
 
 ==== National Occupation Classification (NOC) ====
 
