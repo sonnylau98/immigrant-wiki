@@ -10,15 +10,82 @@
 
 [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/works.html Homepage]
 
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html Canadian Experience Class]
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html Federal Skilled Worker Program]
-* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html Federal Skilled Trades Program]
+=== Canadian Experience Class ===
 
-=== Work in Canada ===
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html Homepage]
+
+=== Federal Skilled Trades Program ===
+
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/skilled-trades.html Homepage]
+
+=== Federal Skilled Worker Program ===
+
+* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html Homepage]
+** [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html get your documents ready]
+** [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html submit your profile]
+
+==== Minimum requirements ====
+To be eligible, you must meet all the minimum requirements for:
+
+* skilled work experience
+* language ability
+* education
+
+If you meet all the minimum requirements, we’ll assess your application based on additional [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html#selection selection factors].
+
+==== Skilled work experience ====
+
+Skilled work experience means that you’ve worked in 1 of these National Occupational Classification (NOC) TEER categories:
+
+* TEER 0
+* TEER 1
+* TEER 2
+* TEER 3
+
+You must show that while working in your primary occupation, you performed:
+
+* the actions in the lead statement of the occupational description in the NOC
+* most of the main duties listed
+
+<blockquote>
+Your “primary occupation” means the job you:
+
+have experience in
+* want to base your immigration application on, if you’re invited to apply
+* Your primary occupation may not be your most recent work experience. If you don’t have the minimum work experience in the primary NOC you choose, you won’t be found eligible.
+</blockquote>
+
+Your skilled work experience must
+
+* be in the same type of job (have the same NOC) as your primary occupation
+* have been obtained within the last 10 years, in Canada or abroad
+* be paid work (you must have been paid wages or earned commission—volunteer work or unpaid internships don’t count)
+* be at least '''1 year of continuous work''' or 1,560 hours total (30 hours per week). You can meet this in a few different ways:
+** '''full time at 1 job''': 30 hours/week for 12 months = 1 year full time (1,560 hours)
+** '''equal amount in part-time work''': for example 15 hours/week for 24 months = 1 year full time (1,560 hours) - You can work as many part-time jobs as you need to meet this requirement.
+** '''full time at more than 1 job''': 30 hours/week for 12 months at more than 1 job = 1 year full time (1,560 hours)
+
+==== Part-time work experience ====
+
+Your skilled work experience must be paid work including paid wages or earned commission. We don’t count volunteer work or unpaid internships.
+
+For part-time work, you can work more or less than 15 hours/week as long as it adds up to 1,560 hours. You can work more than 1 part-time job to get the hours you need to apply.
+
+We '''don’t''' count any hours you work above 30 hours/week.
+
+==== Student work experience ====
+
+Work experience gained while you were studying may count towards your '''minimum requirements''' if the work:
+
+* was paid by wages or commissions
+* was continuous (no gaps in employment), and
+* meets all the other [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html#minimum requirements of the Program]
+
+== Work in Canada ==
 
 [https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html Homepage]
 
-==== Look for jobs in Canada ====
+=== Look for jobs in Canada ===
 
 [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work/look-jobs.html Homepage]
 
@@ -41,7 +108,7 @@
 
 * your [https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/provinces-territories.html province’s or territory’s website for newcomers]
 
-==== National Occupation Classification (NOC) ====
+=== National Occupation Classification (NOC) ===
 
 [https://noc.esdc.gc.ca/Home/Welcome/4d655901c5a8499d8af705bb2a3aee03?GoCTemplateCulture=en-CA NOC]
 
@@ -78,7 +145,7 @@
 * Short work demonstration and no formal educational requirements
 |}
 
-==== Social Insurance Number (SIN) ====
+=== Social Insurance Number (SIN) ===
 
 [https://www.canada.ca/en/employment-social-development/services/sin/apply.html SIN]
 
