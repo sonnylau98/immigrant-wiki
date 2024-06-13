@@ -24,7 +24,8 @@
 ** [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html get your documents ready]
 ** [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents.html submit your profile]
 
-==== Minimum requirements ====
+'''Minimum requirements'''
+
 To be eligible, you must meet all the minimum requirements for:
 
 * skilled work experience
@@ -80,6 +81,21 @@ Work experience gained while you were studying may count towards your '''minimum
 * was paid by wages or commissions
 * was continuous (no gaps in employment), and
 * meets all the other [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html#minimum requirements of the Program]
+
+==== Language ability ====
+
+[https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements/language-testing.html approved language tests]
+
+Your language tests are valid for '''2 years''' after the date of the test result. They must be valid on the day you apply for permanent residence.
+
+==== Education ====
+
+If you have foreign education, you must have
+
+* a completed [https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#educational_credential educational credential] and
+* an [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed.html Educational Credential Assessment] '''for immigration purposes''' that
+** is from a [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessed/how.html designated organization] and
+** shows your education is equal to a completed certificate, diploma or degree from a Canadian secondary institution (high school) or post-secondary institution
 
 == Work in Canada ==
 
