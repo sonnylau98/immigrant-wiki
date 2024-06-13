@@ -58,7 +58,7 @@ Once you’re in the Express Entry pool, we use a [http://ircc.canada.ca/english
 
 </blockquote>
 
-''' Proof of funds '''
+==== Proof of funds ====
 
 You must show that you have enough [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html money for you and your family to settle] in Canada, unless you
 
@@ -89,7 +89,8 @@ Updated June 3, 2024
 | If more than 7 people, for each additional family member, add || $3,958
 |}
 
-'''Admissibility'''
+==== Admissibility ====
+
 You must be [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html admissible to Canada].
 
 ==== Skilled work experience ====
