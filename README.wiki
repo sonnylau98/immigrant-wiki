@@ -34,6 +34,64 @@ To be eligible, you must meet all the minimum requirements for:
 
 If you meet all the minimum requirements, we’ll assess your application based on additional [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html#selection selection factors].
 
+''' Selection factors '''
+* age
+* education
+* work experience
+* whether you have a valid job offer
+* English or French language skills
+* adaptability (how well you’re likely to settle here)
+
+Based on how well you do in each of the 6 factors, we’ll assign you an overall score out of '''100'''.
+
+The current pass mark is '''67''' points.
+
+* [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html Review how the selection factor points are calculated for federal skilled workers]
+
+'''These points are different from the points we use to rank your profile in the ''Express Entry pool''.'''
+
+<blockquote>
+
+We use selection factor points to assess '''if you’re eligible for the Federal Skilled Worker Program'''.
+
+Once you’re in the Express Entry pool, we use a [http://ircc.canada.ca/english/immigrate/skilled/crs-tool.asp different system to rank your profile]. We select the highest-ranking candidates from the pool and invite them to apply for permanent residence.
+
+</blockquote>
+
+''' Proof of funds '''
+
+You must show that you have enough [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html money for you and your family to settle] in Canada, unless you
+
+* are currently able to [https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html legally work in Canada]
+* have a [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/offer-employment.html valid job offer] from an employer in Canada
+
+<blockquote>
+Updated June 3, 2024
+</blockquote>
+
+{|
+! Number of family members !!	Funds you need (in Canadian dollars)
+|-
+| 1 || $14,690
+|-
+| 2 || $18,288
+|-
+| 3 || $22,483
+|-
+| 4 || $27,297
+|-
+| 5 || $30,690
+|-
+| 6 || $34,917
+|-
+| 7 || $38,875
+|-
+| If more than 7 people, for each additional family member, add || $3,958
+|}
+
+'''Admissibility'''
+You must be [https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html admissible to Canada].
+
 ==== Skilled work experience ====
 
 Skilled work experience means that you’ve worked in 1 of these National Occupational Classification (NOC) TEER categories:
